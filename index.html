@@ -4,16 +4,9 @@
     <!-- we import arjs version without NFT but with marker + location based support -->
     <script src="https://raw.githack.com/AR-js-org/AR.js/dev/aframe/build/aframe-ar.js"></script>
     <body style="margin : 0px; overflow: hidden;">
-        <a-scene embedded arjs>
-        <a-marker preset="hiro">
-            <a-entity
-            position="0 0 0"
-            rotation="0 0 0"
-            scale="0.05 0.05 0.05"
-            gltf-model="https://github.com/Minimacaco59/3Dmodel/blob/69bb049723e074d46cc5fba67c92a10e5751bb80/coffe_machine_new/scene.gltf"
-            ></a-entity>
-        </a-marker>
-        <a-entity camera></a-entity>
+        <a-scene embedded artoolkit='sourceType: webcam;'>
+            <a-box position='0 0.5 0' material='opacity: 0.5;'></a-box>
+            <a-marker-camera preset='hiro'></a-marker-camera>
         </a-scene>
     </body>
 </html>
