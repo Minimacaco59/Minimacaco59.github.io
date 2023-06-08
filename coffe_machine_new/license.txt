@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coffe Machine New
+* source:	https://sketchfab.com/3d-models/coffe-machine-new-9a87c4971eed4fd5aa6e1e3441cd1e70
+* author:	berke cakir (https://sketchfab.com/canafarci)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coffe Machine New" (https://sketchfab.com/3d-models/coffe-machine-new-9a87c4971eed4fd5aa6e1e3441cd1e70) by berke cakir (https://sketchfab.com/canafarci) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
